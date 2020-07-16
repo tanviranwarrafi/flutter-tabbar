@@ -1,6 +1,6 @@
 # TabBar Flutter
 
-This project is for learning how to use tabbar widget in Flutter App Development.
+This project is for learning how to use tabbar widget in Flutter App.
 
 ### - Flutter Tabbar
  
